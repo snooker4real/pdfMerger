@@ -1,5 +1,20 @@
 # pdfMerger
 
+**Stack** : Python
+
+## Démarrage
+
+```bash
+python3 -m venv .venv && source .venv/bin/activate   # environnement virtuel
+# aucune dépendance déclarée
+python3 main.py   # lancer
 ```
-python3 main.py
+
+## Structure
+
+```
+combinedBSUnidocs.pdf
+main.py
+pdf-test.pdf
+sample.pdf
 ```
